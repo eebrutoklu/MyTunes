@@ -24,6 +24,10 @@ MyTunes is a comprehensive platform that offers seamless access to your music, v
 - **Video Collection:** Explore a vast video collection with a focus on music-related content like Music Videos, available within My Music.
 - **Ad-Free Entertainment:** Access ad-free videos, music, and more, even offline, through the premium features of MyTunes.
 
+## Responsive GIF Files for Mobile and Desktop
+
+This repository includes responsive GIF files optimized for both mobile and desktop platforms. These GIFs are tailored to adjust and display appropriately across various screen sizes, ensuring a seamless viewing experience on both smartphones and desktop computers.
+
 ## Technologies Used
 
 - HTML5
