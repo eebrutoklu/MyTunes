@@ -35,25 +35,10 @@ This repository includes responsive GIF files optimized for both mobile and desk
 - Bootstrap Icons
 - Google Fonts
 
-## Installation
-
-1. Clone the repository: `git clone https://github.com/your-username/mytunes.git`
-2. Navigate to the project directory.
-
 ## Usage
 
 1. Open `index.html` in your preferred web browser.
 2. Explore the different sections: Hero, Music, About, Video, Gift Card.
-
-## Contributing
-
-Contributions are welcome! If you want to contribute to this project, follow these steps:
-
-1. Fork the project.
-2. Create your feature branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Open a pull request.
 
 ## License
 
